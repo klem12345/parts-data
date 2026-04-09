@@ -1,5 +1,5 @@
 [
-    { "code": "36064", "desc": "Chrome Plate Tube 3.6M X 19MM 0.7 MM Thick", "unit": "EA", "active": true },
+  { "code": "36064", "desc": "Chrome Plate Tube 3.6M X 19MM 0.7 MM Thick", "unit": "EA", "active": true },
   { "code": "36068", "desc": "Chrome Plate Tube 3.6M X 25MM 0.7 MM Thick", "unit": "EA", "active": true },
   { "code": "36072", "desc": "25MM Chrome Plate Towel Flang", "unit": "EA", "active": true },
   { "code": "36085", "desc": "Oval End Socket Cp 17G", "unit": "EA", "active": true },
@@ -27759,6 +27759,6 @@
   { "code": "S92400", "desc": "Concave Wheel 32mm & Bore 2Pack D Nylon Wheel 6.4mm Dia Bore", "unit": "PK", "active": true },
   { "code": "S95500", "desc": "Sheave Concave Whl 36mm 2Packd (39 X 13.0 X 27mm)", "unit": "PK", "active": true },
   { "code": "TT96500", "desc": "Adjustable Sheave R/H", "unit": "EA", "active": true },
-  { "code": "TT96600", "desc": "Adjustable Sheave L/H", "unit": "EA", "active": true },
-  { "code": "Test", "desc": "This is a test for update", "unit": "EA", "active": true }
+  { "code": "testpart", "desc": "this is a test update", "unit": "EA", "active": true },
+  { "code": "TT96600", "desc": "Adjustable Sheave L/H", "unit": "EA", "active": true }
 ]
