@@ -27759,9 +27759,5 @@
   { "code": "S92400", "desc": "Concave Wheel 32mm & Bore 2Pack D Nylon Wheel 6.4mm Dia Bore", "unit": "PK", "active": true },
   { "code": "S95500", "desc": "Sheave Concave Whl 36mm 2Packd (39 X 13.0 X 27mm)", "unit": "PK", "active": true },
   { "code": "TT96500", "desc": "Adjustable Sheave R/H", "unit": "EA", "active": true },
-  { "code": "testpart", "desc": "this is a test update", "unit": "EA", "active": true },
-  { "code": "testpart2", "desc": "this is a test update 2", "unit": "EA", "active": true },
-  { "code": "testpart3", "desc": "this is a test update 3", "unit": "EA", "active": true },
-  { "code": "testpart4", "desc": "this is a test update 4", "unit": "EA", "active": true },
   { "code": "TT96600", "desc": "Adjustable Sheave L/H", "unit": "EA", "active": true }
 ]
